@@ -1,4 +1,3 @@
-import java.util.*;
 public class maxminsumOfSubArray {
     public static void MinMAxSum(int numbers[]){
         int largest=Integer.MIN_VALUE;

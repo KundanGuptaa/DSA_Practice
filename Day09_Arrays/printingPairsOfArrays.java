@@ -1,4 +1,3 @@
-import java.util.*;
 public class printingPairsOfArrays {
     public static void pairPrint(int numbers[]){
         int totalPairs=0;

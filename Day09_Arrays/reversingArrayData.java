@@ -1,4 +1,3 @@
-import java.util.*;
 public class reversingArrayData {
     public static void reverseArray(int numbers[]){
         int first=0,last=numbers.length-1;

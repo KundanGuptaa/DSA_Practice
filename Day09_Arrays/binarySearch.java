@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class binarySearch {
     public static int getBinary(int numbers[], int key) {
         int start = 0;
