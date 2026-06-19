@@ -31,6 +31,7 @@ public class SortestPath {
         Scanner sc = new Scanner(System.in);
         String path = "WNEENESENNN";
         System.out.println(getShortestPath(path));
+        sc.close();
 
     }
 }

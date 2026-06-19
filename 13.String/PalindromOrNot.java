@@ -21,5 +21,6 @@ public class PalindromOrNot{
         {
             System.out.println(str + " is not Palindrome");
         }
+        sc.close();
     }
 }
