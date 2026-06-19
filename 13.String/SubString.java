@@ -9,6 +9,7 @@ public class SubString{
         for(int i=si;i<ei;i++){
             subStr+=str.charAt(i);
         }
-        System.out.println(subStr); 
+        System.out.println(subStr);
+        sc.close(); 
     }
 }
